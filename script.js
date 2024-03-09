@@ -5,7 +5,7 @@ const scroll = new LocomotiveScroll({
 
 
 var songs =[
-    {pic:'/css_photo/card1img.png', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
+    {pic:'/css_photo/card1img.PNG', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
     {pic:'/css_photo/card2img.png', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
     {pic:'/css_photo/card3img.png', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
     {pic:'/css_photo/card4img.png', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
