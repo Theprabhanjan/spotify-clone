@@ -5,13 +5,13 @@ const scroll = new LocomotiveScroll({
 
 
 var songs =[
-    {pic:'/css photo/card1img.webp', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
-    {pic:'/css photo/card2img.webp', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
-    {pic:'/css photo/card3img.webp', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
-    {pic:'/css photo/card4img.webp', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
-    {pic:'/css photo/card5img.webp', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
-    {pic:'/css photo/card1img.webp', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
-    {pic:'/css photo/card2img.webp', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'}
+    {pic:'/css photo/card1img.png', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
+    {pic:'/css photo/card2img.png', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
+    {pic:'/css photo/card3img.png', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
+    {pic:'/css photo/card4img.png', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
+    {pic:'/css photo/card5img.png', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
+    {pic:'/css photo/card1img.png', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'},
+    {pic:'/css photo/card2img.png', cardTitle:'Top-50 Global', cardInfo:'Your daily update of most track'}
 ]
 
 function cardCreater(){
